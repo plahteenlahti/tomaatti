@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns:svgjs="http://svgjs.com/svgjs" viewBox="0 0 140 140" width="140" height="140">
+	<g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)">
+		<path d="M22.044,0H1.956A1.959,1.959,0,0,0,0,1.958V22.044A1.959,1.959,0,0,0,1.956,24H22.044A1.959,1.959,0,0,0,24,22.044V1.958A1.959,1.959,0,0,0,22.044,0ZM21.5,21.959,2.544,22a.5.5,0,0,1-.5-.5L2,2.5A.5.5,0,0,1,2.5,2l19-.041a.5.5,0,0,1,.5.5v19A.5.5,0,0,1,21.5,21.959Z" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"></path>
+		<path d="M7.967,10.779h8.066a3.422,3.422,0,1,0,0-6.844H7.967a3.422,3.422,0,1,0,0,6.844Zm0-5.162A1.711,1.711,0,1,1,6.256,7.328,1.712,1.712,0,0,1,7.967,5.617Z" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"></path>
+		<path d="M7.967,20.067h8.066a3.422,3.422,0,1,0,0-6.844H7.967a3.422,3.422,0,1,0,0,6.844Zm8.066-5.1a1.711,1.711,0,1,1-1.711,1.711A1.712,1.712,0,0,1,16.033,14.963Z" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"></path>
+	</g>
+</svg>
