@@ -13,7 +13,7 @@ const SettingsButton = () => {
         </InnerContainer>
       </Button>
 
-      <Modal isVisible={true}>
+      <Modal presentationStyle="pageSheet" isVisible={true}>
         <ModalContents>
           <ModalTitle>Settings</ModalTitle>
         </ModalContents>
