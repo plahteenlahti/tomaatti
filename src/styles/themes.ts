@@ -1,17 +1,4 @@
-import { DefaultTheme } from 'styled-components/native';
-
-declare module 'styled-components' {
-  export interface DefaultTheme {
-    primaryColor: string;
-    secondaryColor: string;
-    bgPrimary: string;
-    accentColor: string;
-
-    fontRegular: string;
-    fontMedium: string;
-    fontBold: string;
-  }
-}
+import { DefaultTheme } from 'styled-components/native'
 
 export const lightTheme: DefaultTheme = {
   primaryColor: '#333',
@@ -21,8 +8,8 @@ export const lightTheme: DefaultTheme = {
 
   fontRegular: 'Montserrat-Regular',
   fontMedium: 'Montserrat-Medium',
-  fontBold: 'Montserrat-SemiBold',
-};
+  fontBold: 'Montserrat-SemiBold'
+}
 
 export const darkTheme: DefaultTheme = {
   primaryColor: '#fff',
@@ -32,5 +19,5 @@ export const darkTheme: DefaultTheme = {
 
   fontRegular: 'Montserrat-Regular',
   fontMedium: 'Montserrat-Medium',
-  fontBold: 'Montserrat-SemiBold',
-};
+  fontBold: 'Montserrat-SemiBold'
+}

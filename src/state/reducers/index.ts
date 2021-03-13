@@ -1,8 +1,6 @@
-import { combineReducers } from 'redux';
-import todosReducer from 'features/todos/todosSlice';
-import visibilityFilterReducer from 'features/filters/filtersSlice';
+import { combineReducers } from 'redux'
+import timerReducer from './timer'
 
 export default combineReducers({
-  todos: todosReducer,
-  visibilityFilter: visibilityFilterReducer,
-});
+  timer: timerReducer
+})
